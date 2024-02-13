@@ -1,0 +1,25 @@
+_repo: L-escanya-pobres_72856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oller, Narcís
+    gutenberg_agent_id: '56835'
+    url: http://www.gutenberg.org/2009/agents/56835
+description: ''
+gutenberg_issued: '2024-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72856'
+language: ca
+pgterms:marc905: 20240201113641oller
+pgterms:marc906: '1884'
+pgterms:marc907: ES
+production_note: Joan Queralt Gil
+publication_note: '  $aBarcelona :$bEstampa La Renaixensa, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'escanya-pobres
+url: http://www.gutenberg.org/ebooks/72856
