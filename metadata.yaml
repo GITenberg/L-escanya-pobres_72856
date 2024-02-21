@@ -1,11 +1,16 @@
 _repo: L-escanya-pobres_72856
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oller, Narcís
     gutenberg_agent_id: '56835'
     url: http://www.gutenberg.org/2009/agents/56835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72856#L-escanya-pobres
 gutenberg_issued: '2024-02-02'
 gutenberg_type: Text
 identifiers:
